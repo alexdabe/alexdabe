@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alexdabe
+- 👋 Hi, I’m Alexandre DABE
 - 👀 I’m interested in IoT
-- 🌱 I’m currently learning python, arduino and ESP32 coding
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python, C++, arduino and ESP32 coding
+- 💞️ I’m looking to collaborate on arduino based projects
 - 📫 How to reach me ...
 
 <!---
